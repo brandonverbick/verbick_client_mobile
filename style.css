@@ -238,4 +238,5 @@ nav a:focus, nav a:hover {
     background-color: #00274C;
     color: #FFCB05;
     border: 1vh solid #FFCB05;
+    text-decoration: wavy underline;
 }
